@@ -1,0 +1,30 @@
+{
+    "en":{
+        "translation":{
+            "Todo": "Todo",
+            "followers": "Followers",
+            "inputHolder": "Add a new task here...",
+            "btnVal": "Add",
+            "goBack": "Go Back",
+            "task": "task",
+            "tasks": "tasks",
+            "left": " left",
+            "language": "AR"
+
+        }
+    },
+
+    "ar":{
+        "translation":{
+            "Todo": "قائمة",
+            "followers": "المتابعون",
+            "inputHolder": "أضف مهمة جديدة هنا",
+            "btnVal": "أضف",
+            "goBack": "أرجع للخلف",
+            "task": "مهمة",
+            "tasks": "مهام",
+            "left": " متبقية",
+            "language": "EN"
+        }
+    }
+}
